@@ -8,7 +8,7 @@ public interface Algos {
 
     boolean binarySearch(List<String> list, String target) throws IllegalArgumentException;
 
-    List<String> bubbleSort(ArrayList<Integer> list) throws IllegalArgumentException;
+    List<String> bubbleSort(List<String> list) throws IllegalArgumentException;
 
 
 
