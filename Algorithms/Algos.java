@@ -4,11 +4,11 @@ import java.util.*;
 
 public interface Algos {
 
-    boolean linearSearch(List<String> list, String target) throws IllegalArgumentException;
+    boolean linearSearch(List<Integer> list, int target) throws IllegalArgumentException;
 
-    boolean binarySearch(List<String> list, String target) throws IllegalArgumentException;
+    boolean binarySearch(List<Integer> list, int target) throws IllegalArgumentException;
 
-    List<String> bubbleSort(List<String> list) throws IllegalArgumentException;
+    List<Integer> bubbleSort(List<Integer> list) throws IllegalArgumentException;
 
 
 

@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="fitbur.testify.junit.core" type="repository">
+    <properties maven-id="com.fitbur.testify.junit:junit-core:0.1.3" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/junit-core-0.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/core-0.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/api-0.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.inject-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.servlet-api-3.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/external-asm-0.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/external-guava-0.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-ext-1.7.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/cal10n-api-0.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcl-over-slf4j-1.7.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-over-slf4j-1.7.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jul-to-slf4j-1.7.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-classic-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/logback-core-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jansi-1.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
